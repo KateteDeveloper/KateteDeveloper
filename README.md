@@ -23,7 +23,7 @@
 
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 
-<p style="text-align: center; font-size: 6; color: black;">프로필 사진 출처: <a href="https://www.flaticon.com/kr/free-icon/potato_6931869?term=%EA%B0%90%EC%9E%90&related_id=69" target="_blank">아이콘 출처</a></p>
+<p style="text-align: center;  color: black;"> #####프로필 사진 출처: <a href="https://www.flaticon.com/kr/free-icon/potato_6931869?term=%EA%B0%90%EC%9E%90&related_id=69" target="_blank"></a></p>
   
 </div>
 
