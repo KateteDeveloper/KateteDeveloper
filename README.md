@@ -29,7 +29,8 @@
 
   
 </div>
-프로필 사진 출처: [아이콘 출처](https://www.flaticon.com/kr/free-icon/potato_6931869?term=%EA%B0%90%EC%9E%90&related_id=69)
+<p>프로필 사진 출처: <a href="https://www.flaticon.com/kr/free-icon/potato_6931869?term=%EA%B0%90%EC%9E%90&related_id=69" target="_blank">아이콘 출처</a></p>
+
 
 <br>
 
