@@ -1,5 +1,5 @@
 <!--타이틀 부분-->
-<h1> Hello, I'm a Dream Coder Yunzi </h1> 
+<h1> Hello, I'm  Yunzi </h1> 
 
 <!--p>
   <em>
